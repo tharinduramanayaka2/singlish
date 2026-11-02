@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Keyboard outer frame -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M30,34 h48 c4.4,0 8,3.6 8,8 v28 c0,4.4 -3.6,8 -8,8 h-48 c-4.4,0 -8,-3.6 -8,-8 v-28 c0,-4.4 3.6,-8 8,-8 z" />
+
+    <!-- Keyboard key rows - Row 1 -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M27,40 h10 c1.1,0 2,0.9 2,2 v7 c0,1.1 -0.9,2 -2,2 h-10 c-1.1,0 -2,-0.9 -2,-2 v-7 c0,-1.1 0.9,-2 2,-2 z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M43,40 h10 c1.1,0 2,0.9 2,2 v7 c0,1.1 -0.9,2 -2,2 h-10 c-1.1,0 -2,-0.9 -2,-2 v-7 c0,-1.1 0.9,-2 2,-2 z" />
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M59,40 h10 c1.1,0 2,0.9 2,2 v7 c0,1.1 -0.9,2 -2,2 h-10 c-1.1,0 -2,-0.9 -2,-2 v-7 c0,-1.1 0.9,-2 2,-2 z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M75,40 h6 c1.1,0 2,0.9 2,2 v7 c0,1.1 -0.9,2 -2,2 h-6 c-1.1,0 -2,-0.9 -2,-2 v-7 c0,-1.1 0.9,-2 2,-2 z" />
+
+    <!-- Row 2 -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M27,54 h10 c1.1,0 2,0.9 2,2 v7 c0,1.1 -0.9,2 -2,2 h-10 c-1.1,0 -2,-0.9 -2,-2 v-7 c0,-1.1 0.9,-2 2,-2 z" />
+    <!-- Spacebar -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M43,54 h26 c1.1,0 2,0.9 2,2 v7 c0,1.1 -0.9,2 -2,2 h-26 c-1.1,0 -2,-0.9 -2,-2 v-7 c0,-1.1 0.9,-2 2,-2 z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M75,54 h6 c1.1,0 2,0.9 2,2 v7 c0,1.1 -0.9,2 -2,2 h-6 c-1.1,0 -2,-0.9 -2,-2 v-7 c0,-1.1 0.9,-2 2,-2 z" />
+
+    <!-- Small letter hint dots/details on spacebar -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,57 h10 v1.5 h-10 z" />
+</vector>

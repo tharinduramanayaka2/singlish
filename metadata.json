@@ -1,0 +1,6 @@
+{
+  "name": "Singlish Keyboard",
+  "description": "Professional Singlish to Sinhala phonetic custom Android keyboard with live transliteration, suggestion bar, and themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

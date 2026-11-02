@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Singlish Keyboard</string>
+    <string name="ime_name">Singlish to Sinhala Keyboard</string>
+    <string name="subtype_singlish">Sinhala (Singlish Phonetic)</string>
+    <string name="subtype_sinhala">Sinhala (Direct)</string>
+    <string name="subtype_english">English (QWERTY)</string>
+    <string name="symbol_at">@</string>
+    <string name="label_mode_123">"\?123"</string>
+</resources>
